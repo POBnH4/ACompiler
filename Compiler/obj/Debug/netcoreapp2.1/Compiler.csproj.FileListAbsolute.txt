@@ -1,0 +1,51 @@
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\Mark\Desktop\Lab7ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csproj.CoreCompileInputs.cache
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+\\nas-csdm.rgu.ac.uk\csdm-H\students\16\1607262\From_Desktop\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\peter\Desktop\Lab8ModelSolution\Lab8ModelSolution\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\peter\Desktop\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.deps.json
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.json
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.runtimeconfig.dev.json
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\bin\Debug\netcoreapp2.1\Compiler.pdb
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.csprojAssemblyReference.cache
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfoInputs.cache
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.AssemblyInfo.cs
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.dll
+C:\Users\peter\Desktop\Languages and Compilers Coursework - Petar Bonchev(1607262)\Languages and Compilers Coursework (1607262)\Compiler\Compiler\obj\Debug\netcoreapp2.1\Compiler.pdb
